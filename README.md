@@ -1,2 +1,2 @@
-# otus_ms_1
-Homework task 01
+# Simple service with docker
+## Lecture 02 Homework
